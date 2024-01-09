@@ -8,6 +8,20 @@ Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, 
 #### Our Team
 
 ::: {style="text-align: left"}
+**Dr. Nia Johnson** (she/her)\
+**Chicago Botanic Gardens & Northwestern University**\
+[Website](https://nia.johnson.info) \|
+[Publications](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
+:::
+
+![](images/johnson.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Nia Johnson" fig-align="left" width="200"}
+
+I am originally from Atlanta, Ga and earned my B.S. from Howard University. After teaching grade school science with Teach for America, I earned my M.S. and Ph.D. from the University of Michigan in Ecology and Evolutionary Biology where my research focused on understanding the impacts of modern agricultural practices on the eco-evolutionary dynamics of plant-herbivore interactions and plant defense. Currently, as a Postdoctoral Researcher affiliated with the Synthesis Center for Conservation and Restoration (sCORE) at the Chicago Botanic Garden, I collaborate within interdisciplinary teams to carry out projects focused on plant restoration. My personal and professional interests stand at the intersection of education, research, and advocacy, driven by a commitment to diversity and inclusion in the scientific community.\
+
+\
+
+
+::: {style="text-align: left"}
 **Dr. Alicia Foxx** (she/her)\
 **Chicago Botanic Gardens & Northwestern University**\
 [Website](https://aliciafoxx.github.io/) \| [Publications](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
