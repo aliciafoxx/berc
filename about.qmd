@@ -5,4 +5,17 @@ css: styles.css
 
 ### About BERC
 
+-   We recognize that knowledge exists in many forms that has value in BIPOC communities and does not always conform to white and Western standards and practices.
+
+-   Ultimately, the lack of collaboration and diversity in restoration practice, agricultural practice, and academics means valuable knowledge and skills are excluded and the needs of BIPOC community members aren\'t considered or met.
+
+-   We intend to cultivate this collective to center BIPOC perspectives, and to be a place for members to engage, discuss, support, and collaborate on topics in restoration and related topics (agriculture, plant-related research, sustainability, and ways these areas affect BIPOC communities).
+
+-   We hope to build strong communities with members and facilitate collaborations
+
+```{=html}
+<!-- -->
+```
+-   We share community rules of engagement below, woven around sweetgrass, and call on all members to engage respectfully and equitably. BERC is not a service to add a token BIPOC onto a team and give little autonomy or input. Members must be robustly and transparently engaged in collaborations and decisions.
+
 ### What we hope to build & gain

@@ -3,14 +3,17 @@ title: "Black Earth Restoration Network"
 css: styles.css
 ---
 
-Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, People of Color (BIPOC) restoration scientists and practitioners based in the tri-state area. As a collective, we hope to create a supportive and collaborative space for BIPOC researchers and practitioners to collaborate, hold discussions, and host in-person workshops for our community of BIPOC researchers and practitioners.
+-   Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, and People of Color (BIPOC) working closely with plants.\
+-   We chose to include "Black" in the name to celebrate Blackness and Brownness, and to ensure our collective's mission to celebrate and uphold BIPOC is clear. We use "Earth" to acknowledge our diverse connections to land. We chose to call this a collective because we aim to create a living, breathing community for BIPOC to engage, discuss, support, collaborate, celebrate, and offer opportunities to connect online and in-person.\
+-   We take a respectful approach to engagement and use transparency to the collective that maintains members' agency by making collective decisions and discussions on (e.g., information usage and sharing, and collaboration.\
+-   BERC welcomes white allies who will respectfully engage in community.\
 
 #### Our Team
 
 ::: {style="text-align: left"}
 **Dr. Nia Johnson** (she/her)\
 **Chicago Botanic Gardens & Northwestern University**\
-[Website](https://nia.johnson.info) \
+[Website](https://nia.johnson.info)\
 :::
 
 ![](images/johnson.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Nia Johnson" fig-align="left" width="200"}
@@ -18,7 +21,6 @@ Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, 
 I am originally from Atlanta, Ga and earned my B.S. from Howard University. After teaching grade school science with Teach for America, I earned my M.S. and Ph.D. from the University of Michigan in Ecology and Evolutionary Biology where my research focused on understanding the impacts of modern agricultural practices on the eco-evolutionary dynamics of plant-herbivore interactions and plant defense. Currently, as a Postdoctoral Researcher affiliated with the Synthesis Center for Conservation and Restoration (sCORE) at the Chicago Botanic Garden, I collaborate within interdisciplinary teams to carry out projects focused on plant restoration. My personal and professional interests stand at the intersection of education, research, and advocacy, driven by a commitment to diversity and inclusion in the scientific community.\
 
 \
-
 
 ::: {style="text-align: left"}
 **Dr. Alicia Foxx** (she/her)\
@@ -35,14 +37,12 @@ I am a child of the Black community, and I believe in respect, reciprocity, comm
 ::: {style="text-align: left"}
 **Dr. Rebecca Barak** (she/her)\
 **Northwestern University**\
-[Website](https://www.beckybarak.com) \|
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=RdgyocYAAAAJ&view_op=list_works&sortby=pubdate)
+[Website](https://www.beckybarak.com) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=RdgyocYAAAAJ&view_op=list_works&sortby=pubdate)
 :::
 
 ![](images/barak.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Becky Barak" fig-align="left" width="200"}
 
-I am a Conservation Scientist at Chicago Botanic Garden, and an Adjunct Assistant Professor at Northwestern University in the Program in Plant Biology and Conservation. I study biodiversity and decision-making for tallgrass prairie restoration. I also study lawn alternative plantings with collaborators at Chicago Park District, University of Michigan-Flint, and other institutions. Students that work with me study many aspects of biodiversity and conservation in urban and suburban systems in the Chicago area. 
-
+I am a Conservation Scientist at Chicago Botanic Garden, and an Adjunct Assistant Professor at Northwestern University in the Program in Plant Biology and Conservation. I study biodiversity and decision-making for tallgrass prairie restoration. I also study lawn alternative plantings with collaborators at Chicago Park District, University of Michigan-Flint, and other institutions. Students that work with me study many aspects of biodiversity and conservation in urban and suburban systems in the Chicago area.
 
 \
 
@@ -96,16 +96,16 @@ Amelia Renner is a recent graduate of Macalester College. She majored in biology
 
 ::: {style="text-align: left"}
 **Samantha Rosa** (she/her)\
-**Chicago Botanic Garden, Northwestern University, University of Maryland **\
+**Chicago Botanic Garden, Northwestern University, University of Maryland** \
 :::
 
 ![](images/rosa.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Samantha Rosa" fig-align="left" width="200"}
 
-Samantha Rosa is a Black educator and child of southern wetlands from Miami, Florida. She received her BA in Geology from the University of Florida and went on to spend eight years serving as a teacher and STEM Coordinator for students in early childhood through high school. Her work with children motivated her to become a scientist. 
+Samantha Rosa is a Black educator and child of southern wetlands from Miami, Florida. She received her BA in Geology from the University of Florida and went on to spend eight years serving as a teacher and STEM Coordinator for students in early childhood through high school. Her work with children motivated her to become a scientist.
 
-Samantha is currently wrapping up her MS thesis in Plant Biology and Conservation at Northwestern University and the Chicago Botanic Garden while beginning her Ph.D. at the University of Maryland. Her research focuses on the reproductive ecology and nectar chemistry of migrating mangroves in Florida. As a graduate student Samantha has continued to craft curriculum and design programs across the country that foster BIPOC children's STEM identities and empower them to investigate their own questions about the natural world.  
+Samantha is currently wrapping up her MS thesis in Plant Biology and Conservation at Northwestern University and the Chicago Botanic Garden while beginning her Ph.D. at the University of Maryland. Her research focuses on the reproductive ecology and nectar chemistry of migrating mangroves in Florida. As a graduate student Samantha has continued to craft curriculum and design programs across the country that foster BIPOC children's STEM identities and empower them to investigate their own questions about the natural world.
 
-\ 
+ 
 
 ::: {style="text-align: left"}
 **Dr. Evelyn W. Williams** (she/her)\
