@@ -8,11 +8,11 @@ css: styles.css
 -   We take a respectful approach to engagement and use transparency to the collective that maintains members' agency by making collective decisions and discussions on (e.g., information usage and sharing, and collaboration.\
 -   BERC welcomes white allies who will respectfully engage in community.\
 
-#### Our Team
+### Our Team
 
 ::: {style="text-align: left"}
 **Dr. Nia Johnson** (she/her)\
-**Chicago Botanic Gardens & Northwestern University**\
+**Chicago Botanic Garden & Northwestern University**\
 [Website](https://nia.johnson.info)\
 :::
 
@@ -24,7 +24,7 @@ I am originally from Atlanta, Ga and earned my B.S. from Howard University. Afte
 
 ::: {style="text-align: left"}
 **Dr. Alicia Foxx** (she/her)\
-**Chicago Botanic Gardens & Northwestern University**\
+**Chicago Botanic Garden & Northwestern University**\
 [Website](https://aliciafoxx.github.io/) \| [Publications](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
 :::
 
@@ -36,7 +36,7 @@ I am a child of the Black community, and I believe in respect, reciprocity, comm
 
 ::: {style="text-align: left"}
 **Dr. Rebecca Barak** (she/her)\
-**Northwestern University**\
+**Chicago Botanic Garden** & **Northwestern University**\
 [Website](https://www.beckybarak.com) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=RdgyocYAAAAJ&view_op=list_works&sortby=pubdate)
 :::
 
@@ -82,7 +82,7 @@ I am a Professor at Northern Illinois University. My Evidence-based [Restoration
 
 ::: {style="text-align: left"}
 **Amelia Renner** (she/her)\
-**Chicago Botanic Gardens**\
+**Chicago Botanic Garden**\
 [LinkedIn](https://www.linkedin.com/in/ameliarenner/)
 :::
 
@@ -96,7 +96,7 @@ Amelia Renner is a recent graduate of Macalester College. She majored in biology
 
 ::: {style="text-align: left"}
 **Samantha Rosa** (she/her)\
-**Chicago Botanic Garden, Northwestern University, University of Maryland** \
+**Chicago Botanic Garden, Northwestern University, University of Maryland**\
 :::
 
 ![](images/rosa.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Samantha Rosa" fig-align="left" width="200"}
