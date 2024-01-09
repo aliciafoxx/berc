@@ -10,8 +10,7 @@ Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, 
 ::: {style="text-align: left"}
 **Dr. Nia Johnson** (she/her)\
 **Chicago Botanic Gardens & Northwestern University**\
-[Website](https://nia.johnson.info) \|
-[Publications](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
+[Website](https://nia.johnson.info) \
 :::
 
 ![](images/johnson.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Nia Johnson" fig-align="left" width="200"}
