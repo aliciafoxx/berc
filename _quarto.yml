@@ -14,12 +14,14 @@ website:
         text: "About"
       - href: networkMembers.qmd 
         text: "Network Members"
-      - href: research.qmd #change to resources
-        text: "Resources" #change to resources
+      - href: research.qmd 
+        text: "Our Work" 
       - href: forum.qmd
-        text: "Forum" 
+        text: "Events" 
       - href: linkingPerspectives.qmd 
-        text: "Research" #outputs ? 
+        text: "Publications" #outputs ? 
+      - href: resources.qmd 
+        text: "Resources"
       
       # making four pages beyond home page: networkMembers
       # Research.qmd (bibliography), Forum.qmd, and linkingPerspectives.qmd
