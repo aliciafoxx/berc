@@ -3,4 +3,4 @@ title: "Publications"
 css: styles.css
 ---
 
-The first Perspective Piece from the Black Earth Restoration Collective is currently in review. 
+The first perspective piece from the Black Earth Restoration Collective is currently in review. 

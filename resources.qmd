@@ -2,3 +2,7 @@
 title: "Resources"
 css: styles.css
 ---
+
+The ecological knowledge of Black, Indigenous, and People of Color (BIPOC) can consist of holistic practices that preserve cultural knowledge while simultaneously addressing environmental issues. This knowledge is often place-based and acquired collectively through generations via oral histories, artistry, and relationships. In order to work against the historic exclusion of BIPOC knowledge from academic spaces and restoration decision-making, we have crafted this working resource of published literature with the goal of making rich sources of knowledge from BIPOC communities more visible. We aim to actively cultivate this space to highlight the historic and ongoing contributions of BIPOC communities to the fields of land and resource stewardship and restoration.
+
+If you would like to contribute a work that addresses BIPOC contribution to restoration knowledge and/or research works around the topic of BIPOC knowledge in restoration to the bibliography, please submit your work at [this link](https://docs.google.com/forms/d/e/1FAIpQLSfcQ6yGS5y9EZ2m4v2xwQcGIvPyiq9QrqbL8cSXDW3X83TtBQ/viewform?usp=sf_link).
