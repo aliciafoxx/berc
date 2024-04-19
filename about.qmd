@@ -15,4 +15,4 @@ css: styles.css
 
 -   We share community rules of engagement below, woven around sweetgrass, and call on all members to engage respectfully and equitably. BERC is not a service to add a token BIPOC onto a team and give little autonomy or input. Members must be robustly and transparently engaged in collaborations and decisions.
 
-![](images/principles.jpg){fig-align="center"}
+![](images/sCOREFigure1.png){fig-align="center"}

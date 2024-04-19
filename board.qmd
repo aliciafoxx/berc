@@ -1,0 +1,28 @@
+---
+title: "BERC Board"
+css: styles.css
+---
+
+The establishing board of BERC is composed of the original nine founding members of BERC.
+
+Current Board Members
+
+-   Dr. Nia Johnson
+
+-   Dr. Alicia Foxx
+
+-   Dr. Becky Barak
+
+-   Regina Mae Francia
+
+-   Sarah Hollis
+
+-   Dr. Holly Jones
+
+-   Amelia Renner
+
+-   Samantha Rosa-Turner
+
+-   Dr. Evelyn W. Williams
+
+The founding bylaws of BERC are available here.

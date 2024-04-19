@@ -22,6 +22,8 @@ website:
         text: "Publications" #outputs ? 
       - href: resources.qmd 
         text: "Resources"
+#      - href: board.qmd 
+#        text: "Board"
       
       # making four pages beyond home page: networkMembers
       # Research.qmd (bibliography), Forum.qmd, and linkingPerspectives.qmd
