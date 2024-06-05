@@ -20,8 +20,11 @@ website:
         text: "Events" 
       - href: linkingPerspectives.qmd 
         text: "Publications" #outputs ? 
+      - href: team.qmd 
+        text: "Team"
       - href: resources.qmd 
         text: "Resources"
+      
 #      - href: board.qmd 
 #        text: "Board"
       

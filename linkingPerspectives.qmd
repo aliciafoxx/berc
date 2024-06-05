@@ -3,4 +3,12 @@ title: "Publications"
 css: styles.css
 ---
 
-The first perspective piece from the Black Earth Restoration Collective is currently in review. 
+The perspective piece "Shifting dynamics in restoration ecology: Concrete steps towards centering Black, Indigenous, and People of Color's communities and perspectives" written by the founding members is currently under peer review. When it is available, it can be found using the citation below.
+
+<div>
+
+Rosa, S., Hollis, S., Francia, R. M., Renner, A., Barak, R. S., Jones, H. P., Williams, E. W., & Foxx, A. Shifting dynamics in restoration ecology: Concrete steps towards centering Black, Indigenous, and People of Color's communities and perspectives. Ecological Solutions and Evidence. Under review.
+
+</div>
+
+![](images/lichen_log.png){fig-align="center" width="400"}

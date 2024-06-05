@@ -3,5 +3,6 @@ title: "Events"
 css: styles.css
 ---
 
-The Black Earth Restoration Collective will host a forum in 2024 for network members in Illinois, Wisconsin, and Indiana. Please check back for further details, or see the [Network Members](https://afoxx.github.io/BERC/networkMembers.html) tab for information on joining the Collective. 
+We hope to gather a group of BERC affiliates together in 2024. Our purpose is to discuss ways to connect, collaborate, share and listen with each other, strengthen ties, and build new ones. We will meet at Chicago Botanic Garden and talk about shared goals for the group, potential for growing it, and take some local field trips.
 
+![](images/tree_canopy.png){fig-align="center"}
