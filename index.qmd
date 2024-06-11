@@ -3,7 +3,7 @@ title: "Black Earth Restoration Collective"
 css: styles.css
 ---
 
-![](images/fern.jpg){fig-align="center" width="710"}
+![](images/fern.png){fig-align="center" width="710"}
 
 -   Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, and People of Color (BIPOC) working closely with plants.\
 
