@@ -7,8 +7,8 @@ The perspective piece "Shifting dynamics in restoration ecology: Concrete steps 
 
 <div>
 
-Rosa, S., Hollis, S., Francia, R. M., Renner, A., Barak, R. S., Jones, H. P., Williams, E. W., & Foxx, A. Shifting dynamics in restoration ecology: Concrete steps towards centering Black, Indigenous, and People of Color's communities and perspectives. Ecological Solutions and Evidence. Under review.
+Rosa, S., Hollis, S., Francia, R. M., Renner, A., Johnson, N., Barak, R. S., Jones, H. P., Williams, E. W., & Foxx, A. J. (2024). Shifting dynamics in restoration ecology: Concrete steps towards centering black, indigenous, and people of Color\'s communities and perspectives. *Ecological Solutions and Evidence*, *5*(2). <https://doi.org/10.1002/2688-8319.12345>
 
 </div>
 
-![](images/lichen_log.png){fig-align="center" width="400"}
+![](images/lichen_log.png){fig-align="center" width="500"}
