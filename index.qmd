@@ -16,7 +16,7 @@ css: styles.css
   
   
 
-    [![](images/JoinButton.png){fig-align="center" width="240"}](https://aliciafoxx.github.io/berc/networkMembers.html)
+[![](images/JoinButton.png){fig-align="center" width="240"}](https://aliciafoxx.github.io/berc/networkMembers.html)
 
 \ 
 \ 
