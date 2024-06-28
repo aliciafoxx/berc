@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -63,7 +62,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -121,34 +120,19 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla">
+  <img src="images/BERClogo.png" class="about-image
+  round " style="height: 30em; width: 30em;">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Black Earth Restoration Collective</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-</header>
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/fern.png" class="img-fluid figure-img" width="710"></p>
-</figure>
-</div>
+</header><main class="content" id="quarto-document-content">
+<div style="font-style: bold; font-size: 10; text-align: left; margin: 0px 5px 0px 5px">
 <ul>
 <li><p>Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, and People of Color (BIPOC) working closely with plants.<br>
 </p></li>
@@ -158,10 +142,15 @@ ul.task-list li input[type="checkbox"] {
 </p></li>
 <li><p>BERC welcomes white allies who will respectfully engage in community.</p></li>
 </ul>
+</div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://aliciafoxx.github.io/berc/networkMembers.html"><img src="images/JoinButton.png" class="img-fluid figure-img" width="240"></a></p>
 </figure>
+</div>
+<p>&nbsp; &nbsp; &nbsp;</p>
+<div style="font-style: bold; font-size: 10; text-align: center; margin: 0px 25px 0px 25px">
+<p><strong>This work was conducted on the ancestral homelands of the Council of Three Fires: the Ojibwe, Odawa and Potawatomi tribes. We share and celebrate the historic and contemporary ties of local Indigenous people as well as acknowledge the labour and knowledge of Black and Latine people who have shaped land and restoration here.</strong></p>
 </div>
 <p>&nbsp; &nbsp; &nbsp;</p>
 <div style="font-style: italic; font-size: 10; text-align: center; margin: 0px 100px 0px 100px">
@@ -174,8 +163,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
-
-</main> <!-- /main -->
+</main>  
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -196,13 +186,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
