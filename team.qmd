@@ -3,7 +3,9 @@ title: "Team"
 css: styles.css
 ---
 
-### Our Team
+### Our Team & Board Members
+
+The establishing board of BERC is composed of the original nine founding members of BERC. The bylaws of BERC are available for viewing [here](https://drive.google.com/file/d/1wWANGGNAsgL_JQ4bUUpSf389VORQ_gH3/view?usp=sharing).
 
 ::: {style="text-align: left"}
 **Dr. Nia Johnson** (she/her)\
