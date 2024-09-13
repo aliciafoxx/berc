@@ -24,12 +24,15 @@ website:
         text: "Team"
       - href: resources.qmd 
         text: "Resources"
+      - href: posts.qmd 
+        text: "Posts"
       
 #      - href: board.qmd 
 #        text: "Board"
       
       # making four pages beyond home page: networkMembers
       # Research.qmd (bibliography), Forum.qmd, and linkingPerspectives.qmd
+      # added posts page Sept 2024
 
 format:
   html:
