@@ -3,17 +3,17 @@ title: "Posts"
 css: styles.css
 ---
 
-### Honoring Latine/Hispanic Heritage Month: Remembering Chico Mendes
+### Honoring Latine/Hispanic Heritage Month: Berta Cáceres
 
-Dear Black Earth Restoration Collective,![Chico Mendes at his home in Xapuri, Acre, Brazil in 1988. Source: Miranda Smith, Miranda Productions, Inc. Miranda Smith, Miranda Productions, Inc. Licensed under CC BY-SA 3.0.](images/ChicoMendes.jpg){style="float: right; margin: 15px 15px 15px 15px;" fig-alt="Photograph of Chico Mendes" fig-align="right" width="200"}
+Dear Black Earth Restoration Collective,
 
-As we celebrate Latine/Hispanic Heritage Month, it is a moment to honor the profound contributions of Latine communities to environmental justice, land stewardship, and social change. Today, we want to reflect on the legacy of Chico Mendes, a Brazilian labor leader, environmentalist, and conservationist who devoted his life to the protection of the Amazon Rainforest and the rights of the seringueiros, the rubber tree tappers of Acre.
+![](images/bertacaceres.jpg){style="float: right; margin: 15px 15px 15px 15px;" width="200"}
 
-Mendes understood the inextricable link between the well-being of the forest and the people whose livelihoods depend on it. He fought for land reform and sustainable practices in the face of destructive deforestation, all while advocating for the preservation of the Amazon, the "lungs of the planet." His work to protect the forest was not just about the environment but about human dignity, equity, and the rights of Indigenous and traditional peoples.
+As we celebrate Latine/Hispanic Heritage Month, it is a moment to honor the profound contributions of Latine community members to environmental justice, land stewardship, and social change. Not only is this month a time to reflect on heritage but also a call to recognize the contributions of those who have fought to protect our Earth, often at great personal cost. One such figure is Berta Cáceres (1971–2016), a Honduran environmentalist and indigenous rights activist whose work continues to inspire movements across the globe. As a co-founder of the Civic Council of Popular and Indigenous Organizations of Honduras (COPINH), Cáceres courageously led her community in the fight to protect their land, water, and livelihoods from harmful development projects. Her advocacy for the Lenca people and the defense of the sacred Gualcarque River brought international attention to the struggles of indigenous communities resisting displacement and environmental degradation. Cáceres believed that the defense of the environment was inseparable from the fight for indigenous sovereignty and human rights.
 
-As we embark on our work with the Black Earth Restoration Collective, may we take inspiration from leaders like Chico Mendes who have paved the way for community-driven environmental activism. His vision reminds us of the power of collective action and the importance of preserving the Earth, not only for future generations but for those who call it home today. Let us honor his memory by deepening our commitment to restoring the Earth and protecting its most vulnerable communities.
+Her leadership not only protected vital ecosystems but also stood as a powerful testament to the deep connection between the earth and those who inhabit it. As we embark on our work with the Black Earth Restoration Collective, may we take inspiration from leaders like Berta Cáceres who have paved the way for community-driven environmental activism. Her vision reminds us of the power of collective action and the importance of preserving the Earth, not only for future generations but for those who call it home today. Let us honor her memory by deepening our commitment to restoring the Earth and protecting its most vulnerable communities.
 
-In solidarity and restoration,
+In solidarity,
 
 Establishing Board\
 Black Earth Restoration Collective
