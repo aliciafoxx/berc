@@ -323,7 +323,7 @@ I am an applied biogeochemist. My work explores plant- and soil-driven nutrient 
 **Northwestern and Chicago Botanic Garden**\
 :::
 
-![](images/members/Knauf_kyla.jpg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Kyla Knauf" fig-align="left" width="200"}
+![](images/members/Knauf_Kyla.jpg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Kyla Knauf" fig-align="left" width="200"}
 
 plant phenology, climate change, plant communities, plant-pollinator interactions, restoration science, conservation, Rocky Mountains, Chicagoland
 
