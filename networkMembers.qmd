@@ -250,10 +250,9 @@ soil ecology, food webs, biological invasions, DEIJ in STEM
 
 \
 
-
 ::: {style="text-align: left"}
 **Dr. Kelly Ksiazek-Mikenas** (she/her)\
-**Elmhurst University** \
+**Elmhurst University**\
 :::
 
 Urban plant ecology
@@ -272,10 +271,9 @@ I am an applied biogeochemist. My work explores plant- and soil-driven nutrient 
 
 \
 
-
 ::: {style="text-align: left"}
 **Kyla Knauf** (she/her)\
-**Northwestern and Chicago Botanic Garden**\
+**Northwestern and Chicago Botanic Garden**
 :::
 
 ![](images/members/Knauf_Kyla.jpg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Kyla Knauf" fig-align="left" width="200"}
