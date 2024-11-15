@@ -7,7 +7,7 @@ css: styles.css
 
 November 14, 2024 Dear Black Earth Restoration Collective,
 
-![](images/medicinefish.jpg){style="float: right; margin: 15px 15px 15px 15px;" width="500"}
+![](images/medicinefish.png){style="float: right; margin: 15px 15px 15px 15px;" width="500"}
 
 As we enter into Native American Heritage Month, we want to celebrate and honor the heritage, history, and continuing vibrance of Native Americans in stewarding cultural and ecological connections with the Earth. As part of this celebration, we’d like to highlight the work of Medicine Fish, an incredible community-based non-profit organization dedicated to promoting the wellbeing and cultural connections of youth to the lands of the Menominee Tribe in Wisconsin. Executive Director Bryant Waupoose grew up on the Menominee Reservation and confronted poverty, substance and other forms of abuse, and intergenerational trauma that colonialism wrought on the tribe. Through connecting with nature, Bryant found the spiritual and mental healing he sought and wanted to pass this on to the Menominee youth, which sparked him to found Medicine Fish.
 
