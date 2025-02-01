@@ -3,6 +3,24 @@ title: "Posts"
 css: styles.css
 ---
 
+### **Subject:** Honoring Black History Month: Hazel M. Johnson
+
+Dear Black Earth Restoration Collective,
+
+![](images/HazelJohnson.png){style="float: right; margin: 15px 15px 15px 15px;" width="200"}
+
+As we celebrate Black History Month, we take this time to honor the profound contributions of Black leaders who have shaped the environmental justice movement, often in the face of systemic barriers. This month is not only a recognition of history but also a call to uplift the legacies of those who fought tirelessly for the health and dignity of their communities.
+
+One such leader is **Hazel M. Johnson** (1935–2011), widely regarded as the “Mother of the Environmental Justice Movement.” A Chicago native and founder of [People for Community Recovery](https://www.peopleforcommunityrecovery.org/our-story/mission-and-people), Johnson’s work exposed the stark realities of environmental racism in Black communities. Living in Altgeld Gardens, a public housing complex on the South Side of Chicago, she witnessed firsthand the devastating health impacts of industrial pollution, toxic waste, and inadequate sanitation in her neighborhood.
+
+Through relentless organizing, Johnson uncovered the link between hazardous waste sites and high rates of cancer and respiratory illness in her community. Her advocacy laid the groundwork for national conversations about environmental justice, pushing for stronger regulations and community-led solutions. She was instrumental in pressuring government agencies to acknowledge and address environmental disparities, and her influence helped shape President Clinton’s 1994 Executive Order on Environmental Justice.
+
+As we continue our work with the **Black Earth Restoration Collective**, let us draw inspiration from Hazel Johnson’s unwavering commitment to justice, community empowerment, and environmental health. Her legacy reminds us that restoration is not just about the land but about the people who call it home. May we carry forward her vision by advocating for equitable restoration and ensuring that Black communities remain at the forefront of environmental healing and resilience.
+
+In solidarity,\
+**Establishing Board\
+**Black Earth Restoration Collective
+
 ### Honoring National Native American Heritage Month: Medicine Fish
 
 November 14, 2024
